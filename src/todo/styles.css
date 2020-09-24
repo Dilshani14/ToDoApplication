@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    width: 80%;
+    background-color: rgb(235, 244, 245);
+    justify-content: space-between;
+    margin: 100px auto;
+}
+.header-item{
+    background-color: rgb(39, 130, 137);
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    font-weight: 500;
+}
+.content {
+    width: 70%;
+    margin: 0px auto;
+  }
